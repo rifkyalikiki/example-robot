@@ -2,8 +2,8 @@
 Library                     SeleniumLibrary
 
 *** Variables ***
-${Username}                 rifky.ali.kiki@gmail.com
-${Password}                 Password123$
+${Username}                 <enter_your_username>
+${Password}                 <enter_your_password>
 ${Browser}                  Chrome
 ${SiteUrl}                  https://kudo.co.id/shop/
 ${DashboardTitle}           Peluang Usaha dengan Modal Kecil - KUDO
